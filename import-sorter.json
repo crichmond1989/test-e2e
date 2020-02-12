@@ -1,0 +1,13 @@
+{
+  "generalConfiguration": {
+    "sortOnBeforeSave": true
+  },
+  "importStringConfiguration": {
+    "maximumNumberOfImportExpressionsPerLine.count": 999,
+    "maximumNumberOfImportExpressionsPerLine.type": "maxLineLength",
+    "quoteMark": "double"
+  },
+  "sortConfiguration": {
+    "joinImportPaths": true
+  }
+}
